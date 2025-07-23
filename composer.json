@@ -1,0 +1,14 @@
+{
+    "name": "teamdoyen/project_folder",
+    "autoload": {
+        "psr-4": {
+            "Teamdoyen\\ProjectFolder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "teamdoyen"
+        }
+    ],
+    "require": {}
+}
