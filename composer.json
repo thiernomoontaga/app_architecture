@@ -10,5 +10,6 @@
             "name": "teamdoyen"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
